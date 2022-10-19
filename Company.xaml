@@ -1,0 +1,126 @@
+﻿<Window x:Class="MobileAppUsageDashboard.Company"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MobileAppUsageDashboard"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+           Title="Application Usage Statistics" Height="900" Width="1600" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" MouseLeftButtonDown="dragME">
+    <Grid Background="#DDC6B6">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <materialDesign:ColorZone Mode="PrimaryMid" Grid.ColumnSpan="2" HorizontalAlignment="Stretch"  Background="#262223">
+            <Grid>
+                <Button Height="Auto" Margin="1542,10,10,10" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click">
+                    <materialDesign:PackIcon Kind="Power" Foreground="White"/>
+                </Button>
+                <Button Height="Auto" Margin="1494,10,58,10" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click_1">
+                    <materialDesign:PackIcon Kind="LogoutVariant" Foreground="White"/>
+                </Button>
+                <Button Height="Auto" Margin="1445,10,107,10" Background="{x:Null}" BorderBrush="{x:Null}" Click="HomeClicked">
+                    <materialDesign:PackIcon Kind="Home" Foreground="White"/>
+                </Button>
+                <TextBlock Text="DeliveryView_Company" FontSize="25" Margin="10,10,1251,10"/>
+            </Grid>
+
+        </materialDesign:ColorZone>
+        <Grid HorizontalAlignment="Stretch" Grid.Row="1" Background="#262223">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="326*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Background="#DDC6B6 " ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto">
+                <Image Source="Resources/Companylogo.png"/>
+            </Grid>
+            <ScrollViewer HorizontalAlignment="Stretch" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" Grid.Row="1">
+                <StackPanel x:Name="Menu" Margin="10"/>
+            </ScrollViewer>
+        </Grid>
+        <StackPanel x:Name="StackPanelMain" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch">
+            <Grid Grid.Column="2">
+                <Rectangle Margin="20,25,20,-358" Fill="White" RadiusY="10" RadiusX="10">
+                    <Rectangle.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" RenderingBias="Quality" ShadowDepth="1"/>
+                    </Rectangle.Effect>
+
+                </Rectangle>
+                <Grid Width="100" Height="89" Background="#FFFFAF24" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1230,25,0,0" >
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="20" Color="#FFECECEC" RenderingBias="Quality" ShadowDepth="1"/>
+                    </Grid.Effect>
+                    <materialDesign:PackIcon Kind="AccountEdit" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10,0,12,9" Foreground="White" Width="78" Height="70"/>
+                </Grid>
+                <TextBlock  HorizontalAlignment="Right" FontFamily="Champagne &amp; Limousines" Margin="0,25,20,0" VerticalAlignment="Top" Foreground="Gray"/>
+                <Grid Width="260" Height="257" Background="#FFECECEC" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="70,187,0,-324">
+                    <Image Source="Resources/rider.png"/>
+                    <Grid.Effect>
+                        <DropShadowEffect BlurRadius="50" Color="#FFECECEC" RenderingBias="Quality" ShadowDepth="1"/>
+                    </Grid.Effect>
+                </Grid>
+                <Label Content="업체 이름"  HorizontalAlignment="Left" Height="47" Margin="416,187,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="사업자등록번호" HorizontalAlignment="Left" Height="47" Margin="416,239,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="전화번호" HorizontalAlignment="Left" Height="47" Margin="416,291,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="직원 수" HorizontalAlignment="Left" Height="47" Margin="416,343,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="주소" HorizontalAlignment="Left" Height="47" Margin="416,397,0,0" VerticalAlignment="Top" Width="87" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="소개글" HorizontalAlignment="Left" Height="47" Margin="70,466,0,-65" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <TextBlock x:Name="companyName" HorizontalAlignment="Left" Height="47" Margin="570,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="30" >
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+                <TextBlock x:Name="companyNum1" HorizontalAlignment="Left" Height="47" Margin="570,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="30">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+                <TextBlock x:Name="employees_Count"  HorizontalAlignment="Left" Height="47" Margin="570,343,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="30">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+                <TextBlock x:Name="companyAdress" HorizontalAlignment="Left" Height="47" Margin="570,397,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="30">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+                <TextBlock x:Name="companyIntro" HorizontalAlignment="Left" Height="230" Margin="70,518,0,-300" TextWrapping="Wrap" VerticalAlignment="Top" Width="1190" FontSize="30">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+                <TextBlock x:Name="companyNumber" HorizontalAlignment="Left" Height="47" Margin="570,291,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="690" FontSize="30">
+                    <TextBlock.Background>
+                        <SolidColorBrush Color="#FF303030" Opacity="0.2"/>
+                    </TextBlock.Background>
+                </TextBlock>
+            </Grid>
+
+            <!--<Grid Margin="0,28,0,-28">
+                <Label Content="업체 이름"  HorizontalAlignment="Left" Height="47" Margin="48,136,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="별점" HorizontalAlignment="Left" Height="47" Margin="48,192,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="전화번호" HorizontalAlignment="Left" Height="47" Margin="48,255,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="주소" HorizontalAlignment="Left" Height="47" Margin="48,328,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+                <Label Content="소개글" HorizontalAlignment="Left" Height="47" Margin="43,401,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+
+                <TextBlock x:Name="companyName" Margin="191,136,75,663" materialDesign:HintAssist.Hint="업체 이름" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <TextBlock Margin="191,192,75,600" materialDesign:HintAssist.Hint="별점" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <TextBlock x:Name="companyNumber" Margin="191,255,75,542" materialDesign:HintAssist.Hint="직원수" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <TextBlock x:Name="companyAdress" Margin="191,328,75,469" materialDesign:HintAssist.Hint="직원수" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <TextBlock x:Name="companyIntro" Margin="191,401,75,208" materialDesign:HintAssist.Hint="소개글" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <Button Content="Edit" Margin="1201,659,75,0" VerticalAlignment="Top" Click="EditClicked" RenderTransformOrigin="0.446,3"/>
+                <TextBlock x:Name="companyNum1" Margin="191,68,75,731" materialDesign:HintAssist.Hint="업체 이름" FontFamily="Champagne &amp; Limousines" FontSize="18" Background="#FFFFFF" Opacity="0.7"/>
+                <Label Content="사업자등록번호"  HorizontalAlignment="Left" Height="47" Margin="48,68,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.5,0.5" FontSize="18" Foreground="#262223"/>
+            </Grid>-->
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+﻿<Window x:Class="MobileAppUsageDashboard.CompanyPage.DriverManagementEdit"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MobileAppUsageDashboard"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#DDC6B6"
+     
+        Title="CompanyInformationEdit" Height="500" Width="400" ResizeMode="NoResize" FontFamily="Roboto" FontSize="14" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <materialDesign:ColorZone Mode="PrimaryMid" Grid.Row="0" VerticalAlignment="Stretch" Background="#262223">
+            <TextBlock Text="기사 관리 수정" VerticalAlignment="Center" Margin="20" FontSize="30"/>
+        </materialDesign:ColorZone>
+        <StackPanel Margin="10 30" Grid.Row="1">
+            <Grid>
+                <materialDesign:PackIcon Kind="Face" VerticalAlignment="Bottom" Margin="2 12" Foreground="{Binding BorderBrush, ElementName=Face}"/>
+                <TextBox x:Name="Face" Margin="5" materialDesign:HintAssist.Hint="기사 이름" Padding="8 0 0 0" Text="{Binding Face}"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#262223"/>
+            </Grid>
+            <Grid>
+                <materialDesign:PackIcon Kind="Phone" VerticalAlignment="Bottom" Margin="2 12" Foreground="{Binding BorderBrush, ElementName=Phone}"/>
+                <TextBox x:Name="Phone" Margin="5" materialDesign:HintAssist.Hint="전화번호" Padding="8 0 0 0" Text="{Binding Phone}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#262223"/>
+            </Grid>
+            <Grid>
+                <materialDesign:PackIcon Kind="AccountMultiplePlus" VerticalAlignment="Bottom" Margin="2 12" Foreground="{Binding BorderBrush, ElementName=AccountMultiplePlus}"/>
+                <TextBox x:Name="AccountMultiplePlus" Margin="5" materialDesign:HintAssist.Hint="총 배달횟수" Padding="8 0 0 0" Text="{Binding AccountMultiplePlus}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#262223"/>
+            </Grid>
+
+
+        </StackPanel>
+        <Button Grid.RowSpan="2" Margin="50 72" HorizontalAlignment="Right" VerticalAlignment="Top" Style="{StaticResource MaterialDesignFloatingActionAccentButton}"
+                Click="Button_Click" Background="#FFD4844C" BorderBrush="#FFD4844C">
+            <materialDesign:PackIcon Kind="ContentSave"/>
+        </Button>
+
+    </Grid>
+</Window>

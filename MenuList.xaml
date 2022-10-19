@@ -1,0 +1,188 @@
+﻿<Window x:Class="MobileAppUsageDashboard.MenuList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MobileAppUsageDashboard"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="#DDC6B6"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="MenuList" Height="800" Width="1000">
+    <Grid Background="black">
+        <DataGrid  Margin="10,40,491,70" Grid.RowSpan="2" x:Name="MenuList_DataGrid" AutoGenerateColumns="True" SelectionMode="Extended" CanUserAddRows="False" IsSynchronizedWithCurrentItem="False">
+            <DataGrid.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </DataGrid.Background>
+            <DataGrid.Columns>
+                <!--체크박스 추가-->
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <CheckBox HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="메뉴 이름" HorizontalAlignment="Center" Height="30" Margin="506,40,416,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5" FontSize="14"/>
+        <Label Content="수량" HorizontalAlignment="Center" Height="30" Margin="758,40,164,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5" FontSize="14"/>
+        <Label Content="가격" HorizontalAlignment="Center" Height="30" Margin="876,40,46,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5" FontSize="14"/>
+        <Label Content="주소" HorizontalAlignment="Center" Height="30" Margin="506,340,416,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.5" FontSize="14"/>
+        <TextBox x:Name="Address_Box" materialDesign:HintAssist.Hint="주소" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,375,10,361" Foreground="#DD000000"  >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" />
+            </TextBox.Background>
+        </TextBox>
+
+
+        <TextBlock x:Name="TotalPrice" materialDesign:HintAssist.Hint="총 액" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="792,646,10,91">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="Total" materialDesign:HintAssist.Hint="총 액" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="546,646,222,70">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t1" materialDesign:HintAssist.Hint="메뉴 이름1" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,75,262,661">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.502"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t2" materialDesign:HintAssist.Hint="메뉴 이름2" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,113,262,623">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t3" materialDesign:HintAssist.Hint="메뉴 이름3" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,151,262,585">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t4" materialDesign:HintAssist.Hint="메뉴 이름4" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,189,262,547">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t5" materialDesign:HintAssist.Hint="메뉴 이름5" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,227,262,509">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="t6" materialDesign:HintAssist.Hint="메뉴 이름6" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="506,265,262,471">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p1" materialDesign:HintAssist.Hint="가격1" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,75,10,661">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p2" materialDesign:HintAssist.Hint="가격2" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,113,10,623">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p3" materialDesign:HintAssist.Hint="가격3" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,151,10,585">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p4" materialDesign:HintAssist.Hint="가격4" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,189,10,547">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p5" materialDesign:HintAssist.Hint="가격5" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,227,10,509">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="p6" materialDesign:HintAssist.Hint="가격6" FontFamily="Champagne &amp; Limousines" FontSize="18" Margin="876,265,10,471">
+            <TextBlock.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <ComboBox x:Name="q1" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="Black" Margin="758,75,0,661" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q1_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="q2" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="Black" Margin="758,113,0,623" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q2_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="q3" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="Black" Margin="758,151,0,585" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q3_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="q4" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="black" Margin="758,189,0,547" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q4_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <ComboBox x:Name="q5" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="Black" Margin="758,227,0,509" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q5_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+
+        <ComboBox x:Name="q6" materialDesign:HintAssist.Hint="QTY" Padding="7" Foreground="Black" Margin="758,265,0,471" Width="80" HorizontalAlignment="Left" Height="33" SelectionChanged="q6_SelectionChanged">
+            <ComboBox.Background>
+                <SolidColorBrush Color="White"/>
+            </ComboBox.Background>
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+        <TextBox x:Name="Order_Request_Box" Margin="506,469,10,240" materialDesign:HintAssist.Hint="가게 요청사항" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+        <TextBox x:Name="Delivery_Request_Box" Margin="506,562,10,147" materialDesign:HintAssist.Hint="배달 요청사항" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="18"/>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="907,708,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" BorderBrush="White">
+            <Button.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="b1" Content="메뉴 담기" HorizontalAlignment="Left" Margin="395,708,0,0" VerticalAlignment="Top" Width="100" Click="MenuPutClicked1" BorderBrush="White">
+            <Button.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

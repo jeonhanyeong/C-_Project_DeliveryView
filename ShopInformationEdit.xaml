@@ -1,0 +1,28 @@
+﻿<Window x:Class="MobileAppUsageDashboard.ShopInformationEdit"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MobileAppUsageDashboard"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="ShopInformationEdit" Height="500" Width="800">
+    <Grid ContextMenuClosing="ShopInformationEditClearClicked">
+        <TextBox Margin="50,10,50,400" materialDesign:HintAssist.Hint="가게 이름" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="15" Grid.ColumnSpan="1" Grid.Column="1"/>
+        <TextBox Margin="50,60,50,350" materialDesign:HintAssist.Hint="전화번호" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="15" Grid.ColumnSpan="2" Grid.Column="2"/>
+        <TextBox Margin="50,110,50,300" materialDesign:HintAssist.Hint="가게 주소" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="15" Grid.ColumnSpan="3" Grid.Column="3"/>
+        <TextBox Margin="50,160,50,250" materialDesign:HintAssist.Hint="카테고리" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="15" Grid.ColumnSpan="4" Grid.Column="4"/>
+        <TextBox Margin="50,210,50,200" materialDesign:HintAssist.Hint="배달 팁" Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+        FontFamily="Champagne &amp; Limousines" FontSize="15" Grid.ColumnSpan="5" Grid.Column="5"/>
+        <TextBox Margin="50,270,50,0" materialDesign:HintAssist.Hint="가게 소개" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="15" VerticalAlignment="Top" VerticalContentAlignment="Top" Height="110"
+            Grid.ColumnSpan="6" Grid.Column="6"/>
+        <Button Content="Edit" HorizontalAlignment="Left" Margin="667,410,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

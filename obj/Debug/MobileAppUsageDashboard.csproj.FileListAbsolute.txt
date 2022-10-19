@@ -1,0 +1,1609 @@
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\App.baml
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\MobileAppUsageDashboard\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\App.baml
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Main.baml
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Window1.g.cs
+C:\Users\Box\Desktop\WPF-Dashboard-UI-Material-Design-Concept-master\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Window1.baml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Window1.g.cs
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\App.baml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Main.baml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\Window1.baml
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\shop\WPF-Dashboard-UI-Material-Design-Concept-master\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\LoginShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\LoginShop\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\LoginShop\obj\Debug\Login.g.cs
+C:\Users\Box\Desktop\LoginShop\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\LoginShop\obj\Debug\App.baml
+C:\Users\Box\Desktop\LoginShop\obj\Debug\Main.baml
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\LoginShop\obj\Debug\Login.baml
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\LoginShop\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MainWindow.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\Login.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MenuManagement.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\App.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MaterialDesignColors.dll
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\App.baml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MainWindow.baml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\Login.baml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MenuManagement.baml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\Main.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\Main.baml
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\ShopInformation.g.cs
+C:\Users\WOO\Desktop\LoginShop1104 수정 (2)\obj\Debug\ShopInformation.baml
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MaterialDesignColors.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Main.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MainWindow.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Login.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagement.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopInformation.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\App.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\App.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Main.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MainWindow.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Login.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagement.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopInformation.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CompanyList.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CompanyList.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\AffiliateBusiness.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\OrdersRecord.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\OrdersRecord.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopReview.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopReview.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagementAdd.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuManagementEdit.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\OrdersStatus.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\OrdersStatus.baml
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MySql.Data.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\Google.Protobuf.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\Zstandard.Net.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\System.Memory.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\System.Buffers.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WOO\Desktop\DeliveryView\bin\Debug\MySql.Data.xml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Join_Memebership.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Join_Memebership.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Company.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlCustomers.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlMenuItem.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlProviders.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Company.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlCustomers.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlMenuItem.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\UserControlProviders.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\ShopInformationEdit.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerManagement.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerManagement.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerOrders.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerOrders.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuList.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\MenuList.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerInformation.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\CustomerInformation.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\WriteReview.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\WriteReview.baml
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Rating.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WOO\Desktop\DeliveryView\obj\Debug\Rating.baml
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\Google.Protobuf.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\Zstandard.Net.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\System.Memory.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\System.Buffers.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Box\Desktop\DeliveryView (3)\bin\Debug\MySql.Data.xml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Company.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyList.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerOrders.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Join_Memebership.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Login.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuList.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\OrdersStatus.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\OrdersRecord.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Rating.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopReview.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\WriteReview.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\App.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\AffiliateBusiness.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Company.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyList.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerInformation.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerManagement.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\CustomerOrders.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Join_Memebership.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Main.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Login.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuList.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagement.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagementAdd.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MenuManagementEdit.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\OrdersStatus.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\OrdersRecord.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\Rating.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopInformation.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopInformationEdit.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\ShopReview.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\WriteReview.baml
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Company.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyList.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerInformation.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerManagement.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerOrders.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Join_Memebership.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Main.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MainWindow.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Login.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuList.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagement.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\OrdersStatus.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\OrdersRecord.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Rating.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopInformation.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopReview.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\WriteReview.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\App.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignColors.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MySql.Data.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\Google.Protobuf.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\Zstandard.Net.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\System.Memory.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\System.Buffers.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\WOO\Desktop\DeliveryView (3)\bin\Debug\MySql.Data.xml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\App.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\AffiliateBusiness.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Company.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyList.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerInformation.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerManagement.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\CustomerOrders.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Join_Memebership.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Main.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MainWindow.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Login.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuList.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagement.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagementAdd.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MenuManagementEdit.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\OrdersStatus.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\OrdersRecord.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\Rating.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopInformation.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopInformationEdit.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\ShopReview.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\WriteReview.baml
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\WOO\Desktop\DeliveryView (3)\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MaterialDesignColors.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MySql.Data.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\Google.Protobuf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\Zstandard.Net.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\BouncyCastle.Crypto.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\Ubiety.Dns.Core.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\System.Memory.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\System.Buffers.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\K4os.Compression.LZ4.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\K4os.Hash.xxHash.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\System.Numerics.Vectors.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MaterialDesignColors.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\bin\Debug\MySql.Data.xml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\AffiliateBusiness.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Company.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerOrders.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Join_Memebership.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Main.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MainWindow.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Login.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\OrdersStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\OrdersRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Rating.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\WriteReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\App.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\App.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\AffiliateBusiness.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Company.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DeliveryRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\DriverReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CompanyPage\UserControlMenuItem.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\CustomerOrders.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Join_Memebership.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Main.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MainWindow.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Login.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MenuManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\OrdersStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\OrdersRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\Rating.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\ShopReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\WriteReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.g.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\Google.Protobuf.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\Zstandard.Net.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\System.Memory.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\System.Buffers.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.xml
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Box\Desktop\DeliveryView _최종\bin\Debug\MySql.Data.xml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Company.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyList.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerOrders.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Join_Memebership.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Login.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuList.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagement.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\OrdersStatus.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\OrdersRecord.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Rating.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopInformation.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopReview.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\WriteReview.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\App.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\AffiliateBusiness.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Company.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyList.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerInformation.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerManagement.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\CustomerOrders.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Join_Memebership.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Main.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Login.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuList.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagement.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagementAdd.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MenuManagementEdit.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\OrdersStatus.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\OrdersRecord.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\Rating.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopInformation.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopInformationEdit.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\ShopReview.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\WriteReview.baml
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\DeliveryView _최종\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MaterialDesignColors.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\Google.Protobuf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\Zstandard.Net.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\System.Memory.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\System.Buffers.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.xml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\bin\Debug\MySql.Data.xml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Company.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerOrders.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Join_Memebership.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Main.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MainWindow.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Login.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\OrdersStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\OrdersRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Rating.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\WriteReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\App.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\App.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\AffiliateBusiness.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Company.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\CustomerOrders.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Join_Memebership.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Main.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MainWindow.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Login.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MenuManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\OrdersStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\OrdersRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\Rating.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\ShopReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\WriteReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\LiveCharts.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\LiveCharts.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MaterialDesignColors.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\System.ValueTuple.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\Google.Protobuf.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\Zstandard.Net.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\System.Memory.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\System.Buffers.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\bin\Debug\MySql.Data.xml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Company.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerOrders.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Join_Memebership.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Main.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MainWindow.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Login.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\OrdersStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\OrdersRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Rating.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\WriteReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\App.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\App.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\AffiliateBusiness.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Company.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\CustomerOrders.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Join_Memebership.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Main.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MainWindow.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Login.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuList.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MenuManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\OrdersStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\OrdersRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\Rating.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\ShopReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\WriteReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\DeliveryView _1113 합본2\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\LiveCharts.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\LiveCharts.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MaterialDesignColors.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\System.ValueTuple.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\Google.Protobuf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\Zstandard.Net.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\System.Memory.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\System.Buffers.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\bin\Debug\MySql.Data.xml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Company.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerOrders.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Join_Memebership.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Main.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MainWindow.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Login.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\OrdersStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\OrdersRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Rating.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\WriteReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\App.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\App.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\AffiliateBusiness.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Company.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\CustomerOrders.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Join_Memebership.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Main.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MainWindow.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Login.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MenuManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\OrdersStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\OrdersRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\Rating.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\ShopReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\WriteReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignColors.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.ValueTuple.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Google.Protobuf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Zstandard.Net.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Memory.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Buffers.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MySql.Data.xml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Company.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerOrders.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Join_Memebership.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Main.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MainWindow.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Login.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Rating.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\WriteReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\App.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\App.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\AffiliateBusiness.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Company.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerOrders.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Join_Memebership.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Main.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MainWindow.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Login.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Rating.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\WriteReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Driver.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Driver.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\LiveCharts.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignColors.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignColors.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.ValueTuple.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MySql.Data.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Google.Protobuf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Zstandard.Net.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\BouncyCastle.Crypto.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\Ubiety.Dns.Core.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Memory.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\System.Buffers.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Compression.LZ4.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\K4os.Hash.xxHash.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\bin\Debug\MySql.Data.xml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\AffiliateBusiness.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Company.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerOrders.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Driver.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Join_Memebership.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Main.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MainWindow.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Login.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Rating.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\WriteReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\App.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\App.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\AffiliateBusiness.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Company.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\AffiliateStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DeliveryRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\DriverReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CompanyPage\UserControlMenuItem.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\CustomerOrders.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Driver.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Join_Memebership.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Main.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MainWindow.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Login.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MenuManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\OrdersRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\Rating.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\ShopReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\WriteReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.g.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 13일 중간합본_DeliveryView_합치는 파일\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\LiveCharts.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\LiveCharts.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MaterialDesignColors.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MaterialDesignColors.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\System.ValueTuple.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MySql.Data.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\Google.Protobuf.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\Zstandard.Net.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\System.Memory.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\System.Buffers.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\bin\Debug\MySql.Data.xml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Company.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyList.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DeliveryRecord.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CustomerManagement.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CustomerOrders.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Driver.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Join_Memebership.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Main.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MainWindow.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Login.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuList.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagement.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\OrdersStatus.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\OrdersRecord.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Rating.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopInformation.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopReview.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\WriteReview.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\App.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\App.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\AffiliateBusiness.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Company.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyList.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DeliveryRecord.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CustomerManagement.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\CustomerOrders.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Driver.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Join_Memebership.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Main.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MainWindow.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Login.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuList.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagement.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagementAdd.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MenuManagementEdit.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\OrdersStatus.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\OrdersRecord.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\Rating.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopInformation.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopInformationEdit.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\ShopReview.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\WriteReview.baml
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\WOO\Desktop\11월 14일 중간합본_DeliveryView_합치는파일\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\LiveCharts.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\LiveCharts.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MaterialDesignColors.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\System.ValueTuple.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\Google.Protobuf.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\Zstandard.Net.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\System.Memory.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\System.Buffers.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\bin\Debug\MySql.Data.xml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Company.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyList.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CustomerManagement.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CustomerOrders.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Driver.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Join_Memebership.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Main.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MainWindow.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Login.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuList.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagement.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\OrdersStatus.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\OrdersRecord.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Rating.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopInformation.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopReview.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\WriteReview.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\App.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\App.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\AffiliateBusiness.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Company.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyList.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CustomerManagement.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\CustomerOrders.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Driver.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Join_Memebership.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Main.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MainWindow.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Login.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuList.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagement.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagementAdd.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MenuManagementEdit.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\OrdersStatus.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\OrdersRecord.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\Rating.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopInformation.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopInformationEdit.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\ShopReview.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\WriteReview.baml
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\Box\Desktop\11월 14일 중간합본_DeliveryView_UI수정\obj\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MobileAppUsageDashboard.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\LiveCharts.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\LiveCharts.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MaterialDesignColors.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\System.ValueTuple.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\Google.Protobuf.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\Zstandard.Net.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\System.Memory.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\System.Buffers.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\bin\Debug\MySql.Data.xml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.csprojAssemblyReference.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.exe.config
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\AffiliateBusiness.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Company.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\AffiliateList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\CompanyInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CustomerManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CustomerOrders.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Driver.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Join_Memebership.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Main.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MainWindow.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Login.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuList.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagement.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagementAdd.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagementEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\OrdersStatus.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\OrdersRecord.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Rating.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopInformation.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopInformationEdit.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\WriteReview.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\App.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\App.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\AffiliateBusiness.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Company.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\AffiliateList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\AffiliateStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\CompanyInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\DriverReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CompanyPage\UserControlMenuItem.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CustomerManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\CustomerOrders.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Driver.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Join_Memebership.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Main.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MainWindow.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Login.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuList.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagement.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagementAdd.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MenuManagementEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\OrdersStatus.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\OrdersRecord.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\Rating.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopInformation.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopInformationEdit.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\ShopReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\WriteReview.baml
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.g.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.exe
+C:\Users\jhany\OneDrive\바탕 화면\11월 14일 건우 유빈 UI수정 합본\obj\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\LiveCharts.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\LiveCharts.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\LiveCharts.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\LiveCharts.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MaterialDesignColors.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MaterialDesignColors.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\System.ValueTuple.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MySql.Data.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\Google.Protobuf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\Zstandard.Net.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\BouncyCastle.Crypto.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\Ubiety.Dns.Core.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\System.Memory.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\System.Buffers.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\K4os.Compression.LZ4.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\K4os.Hash.xxHash.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\bin\Debug\MySql.Data.xml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.csproj.AssemblyReference.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\AffiliateBusiness.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Company.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\AffiliateList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\CompanyInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CustomerManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CustomerOrders.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Driver.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Join_Memebership.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Main.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MainWindow.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Login.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\OrdersStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\OrdersRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Rating.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\WriteReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\App.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\App.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\AffiliateBusiness.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Company.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\AffiliateList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\AffiliateStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\CompanyInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\DriverReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CompanyPage\UserControlMenuItem.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CustomerManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\CustomerOrders.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Driver.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Join_Memebership.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Main.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MainWindow.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Login.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MenuManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\OrdersStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\OrdersRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\Rating.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\ShopReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\WriteReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.g.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 14일 최종합본_건우 유빈 하녕\obj\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MobileAppUsageDashboard.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\LiveCharts.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\LiveCharts.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\LiveCharts.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\LiveCharts.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MaterialDesignColors.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MaterialDesignColors.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\System.ValueTuple.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MySql.Data.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\Google.Protobuf.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\Zstandard.Net.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\BouncyCastle.Crypto.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\Ubiety.Dns.Core.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\System.Memory.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\System.Buffers.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\K4os.Compression.LZ4.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\K4os.Hash.xxHash.dll
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\bin\Debug\MySql.Data.xml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.exe.config
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\AffiliateBusiness.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Company.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\AffiliateStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\CompanyInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\CompanyInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\UserControlMenuItem.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CustomerManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CustomerOrders.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Driver.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Join_Memebership.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Main.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MainWindow.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Login.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuList.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagement.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagementAdd.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\WriteDriverReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagementEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\OrdersStatus.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\OrdersRecord.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Rating.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopInformation.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopInformationEdit.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\WriteReview.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\App.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard_MarkupCompile.lref
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\App.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\AffiliateBusiness.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Company.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\AffiliateStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\CompanyInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\CompanyInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\DriverReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CompanyPage\UserControlMenuItem.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CustomerManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\CustomerOrders.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Driver.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Join_Memebership.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Main.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MainWindow.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Login.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuList.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagement.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagementAdd.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\WriteDriverReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MenuManagementEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\OrdersStatus.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\OrdersRecord.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\Rating.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopInformation.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopInformationEdit.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\ShopReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\WriteReview.baml
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.g.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.Properties.Resources.resources
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.csproj.GenerateResource.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.csproj.CoreCompileInputs.cache
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.csproj.CopyComplete
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.exe
+D:\웅수\3-2\닷넷 남상윤\1차프젝\프로젝트코드\11월 18일 최종합본\obj\Debug\MobileAppUsageDashboard.pdb
